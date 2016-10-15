@@ -1,0 +1,5 @@
+library(rjson)
+setwd("E:/哥大/第三学期/ADA/proj/yelp_dataset_challenge_academic_dataset")
+result <- fromJSON(file="yelp_academic_dataset_business.json")
+names(result)
+length(result$business_id)

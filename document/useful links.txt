@@ -1,0 +1,5 @@
+Github example:
+https://github.com/Yelp/dataset-examples
+
+Data download:
+https://www.yelp.com/dataset_challenge/dataset
